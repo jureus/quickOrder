@@ -1,0 +1,2 @@
+<?php
+$MESS ['FASTORDER_PRODUCT_ID_PARAM'] = "ID товара";
